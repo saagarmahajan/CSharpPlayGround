@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 
 namespace Solutions
 {
-    class Program
+    class StringsClass
     {
         static void Main(string[] args)
         {
@@ -149,11 +149,6 @@ namespace Solutions
 
 
         #endregion
-
-
-        #region Arrays
-        #endregion
-
 
     }
 
